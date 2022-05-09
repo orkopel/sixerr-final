@@ -1,0 +1,480 @@
+* {
+  box-sizing: border-box;
+}
+
+.check-out-section-mobile {
+  display: none;
+}
+.gig-page {
+  // padding-left: 32px;
+  // padding-right: 32px;
+  padding: 32px 0 0;
+  display: flex;
+  line-height: 150%;
+  font-family: "Cabin", sans-serif;
+}
+.info-side {
+  margin-right: 115px;
+  max-width: 710px;
+}
+.details-title-info {
+  margin-bottom: 24px;
+  color: $clr3;
+  h1 {
+    font-size: 28px;
+    font-family: Macan-bold, Helvetica, sans-serif;
+    margin: 0;
+    padding-bottom: 16px;
+    // margin-bottom: 24px;
+  }
+}
+.seller-info {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  font-size: 14px;
+  line-height: 21px;
+  font-family: Macan-regular;
+  gap: 11px;
+  font-weight: 400;
+  .owner-name {
+    font-weight: 700;
+    color: $clr3;
+  }
+}
+.profile-img {
+  width: 30px;
+  display: flex;
+  align-items: center;
+}
+.seller-img {
+  border-radius: 50%;
+  max-width: 100%;
+}
+.carusel-img {
+  width: 630px;
+  height: 459px;
+  img {
+    width: 100%;
+  }
+}
+.reviews {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  border-bottom: 1px solid #DADBDD;
+  padding-bottom: 25px;
+  p {
+    font-family: Macan-regular;
+    color: $clr3;
+    font-size: 20px;
+    font-weight: 700;
+  }
+  a {
+    font-family: Macan-regular;
+    color: $clr1;
+    font-weight: 400;
+    font-size: 14px;
+    cursor: pointer;
+  }
+}
+.check-out-section {
+  width: 100%;
+  text-align: -webkit-right;
+}
+.check-out-part {
+  position: sticky;
+  top: 50px;
+  max-width: 416px;
+  border: 1px solid #DADBDD;
+  padding: 24px;
+}
+.about-title {
+  font-family: Macan-regular;
+  color: $clr3;
+  font-size: 20px;
+  font-weight: 700;
+  padding-bottom: 25px;
+}
+.about-text {
+  font-family: Macan-regular;
+  font-size: 16px;
+  color: #62646A;
+}
+.about-gig {
+  font-family: Macan-regular;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #DADBDD;
+  color: #62646A;
+  margin-bottom: 64px;
+  margin-top: 64px;
+}
+.profile-img-about {
+  display: flex;
+  align-items: center;
+  width: 110px;
+  img {
+    width: 100%;
+  }
+}
+.about-seller {
+  display: flex;
+  align-items: center;
+  padding-bottom: 24px;
+  p {
+    font-family: Macan-regular;
+    color: #62646A;
+    font-weight: 700;
+    font-size: 16px;
+    margin: 0;
+    padding-bottom: 5px;
+  }
+  h1 {
+    font-size: 14px;
+    line-height: 21px;
+    color: #404145;
+  }
+}
+.rate-profile {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 15px;
+  font-family: Macan-regular;
+  button {
+    border: 1px solid #62646A;
+    border-radius: 4px;
+    margin: 20px 0 0;
+    font-size: 14px;
+    width: auto;
+    font-family: Macan-regular;
+    font-weight: 600;
+    line-height: 100%;
+    padding: 12px 24px;
+    background: none;
+    color: #62646A;
+    cursor: pointer;
+  }
+}
+.seller-info-details {
+  border: 1px solid #DADBDD;
+  padding: 24px;
+  margin-bottom: 64px;
+}
+.info-table {
+  border-bottom: 1px solid #DADBDD;
+  font-family: Macan-regular;
+  ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    list-style: none;
+    color: $clr2;
+    padding: 0;
+    margin: 0;
+  }
+  li {
+    padding-right: 40px;
+    padding-bottom: 40px;
+    b {
+      color: #62646A;
+    }
+  }
+}
+.seller-description {
+  font-family: Macan-regular;
+  padding-top: 15px;
+  line-height: 150%;
+  color: #62646A;
+}
+.checkout-title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: Macan-regular;
+  padding-bottom: 10px;
+  color: $clr3;
+  .price {
+    font-family: Macan-regular;
+    font-size: 20px;
+    margin: 0;
+  }
+  .service {
+    font-family: Macan-regular;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 0;
+  }
+}
+.additional-info {
+  display: flex;
+  // justify-content: space-between;
+  // margin-right: 8px;
+  align-items: center;
+  margin-bottom: 20px;
+  font-family: Macan-regular;
+  .img-clock {
+    align-items: center;
+    display: flex;
+  }
+  img {
+    max-width: 16px;
+  }
+
+  .delivery-wrapper {
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    color: #62646A;
+    font-family: Macan-regular;
+    p {
+      margin-left: 8px;
+      font-family: Macan-regular;
+    }
+  }
+  .revision-wrapper {
+    display: flex;
+    align-items: center;
+    margin-left: 16px;
+    font-weight: bold;
+    color: #62646A;
+    font-family: Macan-regular;
+    p {
+      margin-left: 8px;
+      font-family: Macan-regular;
+    }
+  }
+}
+.buy-btn {
+  text-align: center;
+  margin: auto 0;
+  font-family: Macan-regular;
+  button {
+    width: 100%;
+    padding: 12px 24px;
+    border: none;
+    background-color: $clr1;
+    font-weight: 600;
+    line-height: 100%;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 4px;
+    font-family: Macan-regular;
+  }
+  button:hover {
+    background-color: #1DA164;
+    cursor: pointer;
+  }
+}
+.user-review-img {
+  img {
+    border-radius: 50%;
+    width: 32px;
+    margin-right: 10px;
+  }
+}
+.reviews-wrap {
+  position: relative;
+}
+.review-list {
+  list-style: none;
+  list-style-image: none;
+  padding-inline-start: none;
+  margin-block-start: 0px;
+  margin-block-start: 0px;
+  margin-block-end: 0px;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 0px;
+}
+.review-user {
+  font-family: Macan-regular;
+  border-top: 1px solid #DADBDD;
+  padding: 16px 0 32px 44px;
+  display: list-item;
+}
+.user-profile-image {
+  position: relative;
+  float: left;
+  margin-left: -44px;
+  width: 32px;
+  display: flex;
+  img {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border-radius: 50%;
+  }
+}
+.header-info {
+  display: block;
+}
+.reviewer-details {
+  display: flex;
+  align-items: center;
+  padding: 4px 0;
+  p {
+    font-size: 16px;
+    line-height: 120%;
+    font-weight: 700;
+    margin: 0 10px 0 0;
+    outline: 0;
+    padding: 0;
+    color: $clr3;
+  }
+}
+.review-rating {
+  display: flex;
+  align-items: center;
+  p {
+    color: #FFB33E;
+    margin: 0 0 0 5px;
+    font-weight: 700;
+  }
+}
+.reviewer-sub-details {
+  display: inline-flex;
+}
+.country {
+  display: inline-flex;
+  align-items: center;
+  img {
+    width: 20px;
+    height: 20px;
+  }
+  p {
+    color: #62646A;
+    font-size: 14px;
+    padding-left: 8px;
+    margin: auto;
+  }
+}
+.review-description {
+  line-height: 22px;
+  color: $clr3;
+  word-wrap: break-word;
+  p {
+    padding: 8px 0;
+  }
+}
+.review-published {
+  color: #95979D;
+  font-size: 14px;
+  line-height: 21px;
+}
+.reviews-count {
+  font-size: 20px;
+  font-family: Macan-bold;
+  color: #404145;
+  font-weight: 700;
+  line-height: 42px;
+}
+.stars-details {
+  position: relative;
+  overflow: hidden;
+  cursor: default;
+  display: block;
+  float: left;
+  color: rgb(255, 179, 62);
+  font-size: 20px;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  // height: 15px;
+  // width: 15px;
+}
+.star {
+  position: relative;
+  overflow: hidden;
+  cursor: default;
+  display: block;
+  float: left;
+  color: rgb(255, 179, 62);
+  font-size: 20px;
+}
+.guarentee-section {
+  display: flex;
+  font-family: Macan-regular;
+  font-size: 14px;
+  color: #95979D;
+  gap: 12px;
+}
+.v-details {
+  width: 16px;
+}
+.promises-section {
+  margin-bottom: 20px;
+}
+.text-area-details {
+  width: 100%;
+  resize: none;
+  height: 100px;
+  border: 1px solid #DADBDD ;
+  border-radius: 6px;
+  font-family: Macan-regular;
+  font-size: 14px;
+  padding: 10px;
+}
+.save-review-btn {
+  display: flex;
+  justify-content: right;
+  width: 100%;
+  button {
+    width: auto;
+    padding: 12px 24px;
+    border: none;
+    background-color: #1DBF73;
+    font-weight: 600;
+    line-height: 100%;
+    color: #fff;
+    font-size: 14px;
+    border-radius: 4px;
+    font-family: Macan-regular;
+  }
+}
+.rate-owner-review {
+  width: 100%;
+  height: 40px;
+  border: 1px solid #DADBDD ;
+  border-radius: 6px;
+  font-family: Macan-regular;
+  font-size: 14px;
+  padding: 10px;
+  option {
+    font-family: Macan-regular;
+    font-size: 14px;
+    color: #95979D;
+    text-align:left;
+  }
+}
+.add-review-seller-p {
+  font-size: 20px;
+  font-family: Macan-bold;
+  color: #404145;
+  font-weight: 700;
+  line-height: 42px;
+  width: 100%;
+}
+.rate-p {
+  color: #404145;
+  font-family: Macan-regular;
+}
+.review-length {
+  font-size: 14px;
+  line-height: 21px;
+  color: #404145;
+  font-weight: 100;
+}
+.rate-and-save {
+  width: 100%;
+  display: flex;
+  // flex-wrap: wrap;
+  align-items: end;
+}
+.txt-and-rate {
+  display: flex;
+  width: 100%;
+}
+.review-form {
+  margin-bottom: 24px;
+}

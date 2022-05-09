@@ -1,0 +1,998 @@
+30.3.2022, 11:54:54 - INFO - Server is running on port: 3030
+30.3.2022, 11:56:40 - ERROR - cannot find gigs | {}
+30.3.2022, 11:56:40 - ERROR - Failed to get gigs | {}
+30.3.2022, 11:57:00 - ERROR - cannot find gigs | {}
+30.3.2022, 11:57:00 - ERROR - Failed to get gigs | {}
+30.3.2022, 11:57:10 - ERROR - cannot find gigs | {}
+30.3.2022, 11:57:10 - ERROR - Failed to get gigs | {}
+30.3.2022, 11:57:17 - ERROR - cannot find gigs | {}
+30.3.2022, 11:57:17 - ERROR - Failed to get gigs | {}
+30.3.2022, 11:58:21 - ERROR - cannot find gigs | {}
+30.3.2022, 11:58:21 - ERROR - Failed to get gigs | {}
+30.3.2022, 11:58:30 - ERROR - cannot find gigs | {}
+30.3.2022, 11:58:30 - ERROR - Failed to get gigs | {}
+30.3.2022, 11:58:52 - ERROR - cannot find gigs | {}
+30.3.2022, 11:58:52 - ERROR - Failed to get gigs | {}
+30.3.2022, 11:58:52 - ERROR - cannot find gigs | {}
+30.3.2022, 11:58:52 - ERROR - Failed to get gigs | {}
+30.3.2022, 12:49:21 - ERROR - cannot find gigs | {}
+30.3.2022, 12:49:21 - ERROR - Failed to get gigs | {}
+30.3.2022, 12:49:41 - ERROR - cannot find gigs | {}
+30.3.2022, 12:49:41 - ERROR - Failed to get gigs | {}
+30.3.2022, 12:51:14 - ERROR - cannot find gigs | {}
+30.3.2022, 12:51:14 - ERROR - Failed to get gigs | {}
+30.3.2022, 12:51:34 - ERROR - cannot find gigs | {}
+30.3.2022, 12:51:34 - ERROR - Failed to get gigs | {}
+30.3.2022, 12:54:35 - INFO - Server is running on port: 3030
+30.3.2022, 12:55:06 - ERROR - cannot find gigs | {}
+30.3.2022, 12:55:06 - ERROR - Failed to get gigs | {}
+30.3.2022, 12:55:26 - ERROR - cannot find gigs | {}
+30.3.2022, 12:55:26 - ERROR - Failed to get gigs | {}
+30.3.2022, 12:57:37 - INFO - Server is running on port: 3030
+30.3.2022, 12:58:09 - ERROR - cannot find gigs | {}
+30.3.2022, 12:58:09 - ERROR - Failed to get gigs | {}
+30.3.2022, 12:58:29 - ERROR - cannot find gigs | {}
+30.3.2022, 12:58:29 - ERROR - Failed to get gigs | {}
+30.3.2022, 13:06:04 - INFO - Server is running on port: 3030
+30.3.2022, 13:23:37 - INFO - Server is running on port: 3030
+30.3.2022, 13:25:36 - INFO - Server is running on port: 3030
+30.3.2022, 13:25:44 - ERROR - while finding user 6242fdb28016c17b69268b55 | {}
+30.3.2022, 13:25:44 - ERROR - Failed to get user | {}
+30.3.2022, 13:25:52 - ERROR - while finding user 6242fdb28016c17b69268b55 | {}
+30.3.2022, 13:25:52 - ERROR - Failed to get user | {}
+30.3.2022, 14:49:45 - ERROR - while finding user 6242fdb28016c17b69268b55 | {}
+30.3.2022, 14:49:45 - ERROR - Failed to get user | {}
+30.3.2022, 14:49:45 - ERROR - while finding user 6242fdb28016c17b69268b56 | {}
+30.3.2022, 14:49:45 - ERROR - Failed to get user | {}
+30.3.2022, 14:49:45 - ERROR - while finding user 6242fdb28016c17b69268b57 | {}
+30.3.2022, 14:49:45 - ERROR - Failed to get user | {}
+30.3.2022, 14:49:45 - ERROR - while finding user 6242fdb28016c17b69268b58 | {}
+30.3.2022, 14:49:45 - ERROR - Failed to get user | {}
+30.3.2022, 15:01:05 - ERROR - while finding user 6242fdb28016c17b69268b55 | {}
+30.3.2022, 15:01:05 - ERROR - Failed to get user | {}
+30.3.2022, 15:01:05 - ERROR - while finding user 6242fdb28016c17b69268b56 | {}
+30.3.2022, 15:01:05 - ERROR - Failed to get user | {}
+30.3.2022, 15:01:05 - ERROR - while finding user 6242fdb28016c17b69268b57 | {}
+30.3.2022, 15:01:05 - ERROR - Failed to get user | {}
+30.3.2022, 15:01:05 - ERROR - while finding user 6242fdb28016c17b69268b58 | {}
+30.3.2022, 15:01:05 - ERROR - Failed to get user | {}
+30.3.2022, 15:01:08 - ERROR - while finding user 6242fdb28016c17b69268b56 | {}
+30.3.2022, 15:01:08 - ERROR - Failed to get user | {}
+30.3.2022, 15:17:30 - ERROR - while finding user 6242fdb28016c17b69268b55 | {}
+30.3.2022, 15:17:30 - ERROR - Failed to get user | {}
+30.3.2022, 15:17:30 - ERROR - while finding user 6242fdb28016c17b69268b56 | {}
+30.3.2022, 15:17:30 - ERROR - Failed to get user | {}
+30.3.2022, 15:17:30 - ERROR - while finding user 6242fdb28016c17b69268b57 | {}
+30.3.2022, 15:17:30 - ERROR - Failed to get user | {}
+30.3.2022, 15:17:30 - ERROR - while finding user 6242fdb28016c17b69268b58 | {}
+30.3.2022, 15:17:30 - ERROR - Failed to get user | {}
+30.3.2022, 15:17:32 - ERROR - while finding user 6242fdb28016c17b69268b55 | {}
+30.3.2022, 15:17:32 - ERROR - Failed to get user | {}
+30.3.2022, 15:18:03 - ERROR - while finding user 6242fdb28016c17b69268b55 | {}
+30.3.2022, 15:18:03 - ERROR - Failed to get user | {}
+30.3.2022, 15:18:03 - ERROR - while finding user 6242fdb28016c17b69268b56 | {}
+30.3.2022, 15:18:03 - ERROR - Failed to get user | {}
+30.3.2022, 15:18:03 - ERROR - while finding user 6242fdb28016c17b69268b57 | {}
+30.3.2022, 15:18:03 - ERROR - Failed to get user | {}
+30.3.2022, 15:18:03 - ERROR - while finding user 6242fdb28016c17b69268b58 | {}
+30.3.2022, 15:18:03 - ERROR - Failed to get user | {}
+30.3.2022, 15:18:05 - ERROR - while finding user 6242fdb28016c17b69268b56 | {}
+30.3.2022, 15:18:05 - ERROR - Failed to get user | {}
+30.3.2022, 19:26:09 - INFO - Server is running on port: 3030
+30.3.2022, 19:36:30 - INFO - Server is running on port: 3030
+30.3.2022, 19:41:30 - INFO - Server is running on port: 3030
+30.3.2022, 19:41:43 - ERROR - cannot find gigs | {}
+30.3.2022, 19:41:57 - INFO - Server is running on port: 3030
+30.3.2022, 19:42:39 - ERROR - cannot find gigs | {}
+30.3.2022, 19:45:20 - INFO - Server is running on port: 3030
+30.3.2022, 19:45:28 - ERROR - cannot find gigs | {}
+30.3.2022, 19:45:40 - INFO - Server is running on port: 3030
+30.3.2022, 19:52:29 - INFO - Server is running on port: 3030
+30.3.2022, 20:01:28 - INFO - Server is running on port: 3030
+30.3.2022, 20:01:33 - DEBUG - auth.service - signup with username: undefined, fullname: undefined
+30.3.2022, 20:01:33 - ERROR - Failed to signup fullname, username and password are required!
+30.3.2022, 20:34:54 - INFO - Server is running on port: 3030
+30.3.2022, 20:35:02 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 20:35:04 - DEBUG - auth.route - new account created: {"username":"eyal","password":"$2b$10$nYr/HNgAC8zjWg.H8baRgu0qCH8BwXAS77iFVwRhV7dBkVLu18feS","fullname":"eyal","score":0,"_id":"624494c814b21264285c70e2"}
+30.3.2022, 20:35:04 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 20:35:04 - ERROR - Failed to signup Invalid  password
+30.3.2022, 20:36:12 - INFO - Server is running on port: 3030
+30.3.2022, 20:36:27 - INFO - Server is running on port: 3030
+30.3.2022, 20:44:12 - INFO - Server is running on port: 3030
+30.3.2022, 20:44:29 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 20:44:31 - ERROR - Failed to signup Username already taken
+30.3.2022, 20:44:51 - DEBUG - auth.service - signup with username: yosi, fullname: yosi
+30.3.2022, 20:44:51 - DEBUG - auth.route - new account created: {"username":"yosi","password":"$2b$10$ADeUw.h4uYCFIiEIvvYw2uExM/3rZrobs1xq6v9X54mnZwshcWDIa","fullname":"yosi","score":0,"_id":"6244971389d850656cf46a59"}
+30.3.2022, 20:44:51 - DEBUG - auth.service - login with username: yosi
+30.3.2022, 20:44:51 - ERROR - Failed to signup Invalid  password
+30.3.2022, 20:50:16 - INFO - Server is running on port: 3030
+30.3.2022, 20:50:35 - DEBUG - auth.service - signup with username: yyy, fullname: yyy
+30.3.2022, 20:50:36 - DEBUG - auth.route - new account created: {"username":"yyy","password":"$2b$10$KzGCidkjQZckLxKq2jX3Au4gW/nCbsL16JWH/y.Lfaq.tTAHaVcoC","fullname":"yyy","score":0,"_id":"6244986cc9958a464c0a7a0a"}
+30.3.2022, 20:50:36 - DEBUG - auth.service - login with username: yyy
+30.3.2022, 20:50:36 - ERROR - Failed to signup Invalid  password
+30.3.2022, 20:51:22 - DEBUG - auth.service - signup with username: yyy, fullname: yyy
+30.3.2022, 20:51:22 - ERROR - Failed to signup Username already taken
+30.3.2022, 20:51:34 - DEBUG - auth.service - signup with username: pp, fullname: pp
+30.3.2022, 20:51:35 - DEBUG - auth.route - new account created: {"username":"pp","password":"$2b$10$ZThP9aYYPd.QW9WCVx30mOUt828h9TbPDdJjwUIxCQENDJNd41sBO","fullname":"pp","score":0,"_id":"624498a7c9958a464c0a7a0b"}
+30.3.2022, 20:51:35 - DEBUG - auth.service - login with username: pp
+30.3.2022, 20:51:35 - ERROR - Failed to signup Invalid  password
+30.3.2022, 20:52:34 - INFO - Server is running on port: 3030
+30.3.2022, 21:08:46 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:08:46 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:10:39 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:10:39 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:12:17 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:12:17 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:12:20 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:12:20 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:12:37 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:12:37 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:19:53 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:19:53 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:19:57 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:19:57 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:20:00 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:20:00 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:20:12 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:20:12 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:20:39 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:20:39 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:20:43 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:20:43 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:20:45 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:20:45 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:21:04 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:21:04 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:21:07 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:21:07 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:22:48 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:22:48 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:31:14 - INFO - Server is running on port: 3030
+30.3.2022, 21:31:58 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:31:59 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:31:59 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:31:59 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:31:59 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:31:59 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:32:00 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:32:00 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:35:09 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:35:09 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:40:01 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:40:01 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:40:01 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:40:01 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:40:13 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:40:13 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:50:12 - INFO - Server is running on port: 3030
+30.3.2022, 21:55:20 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:55:21 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:55:23 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:55:23 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:55:26 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:55:27 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:56:07 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:56:07 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:56:09 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 21:56:09 - ERROR - Failed to signup Username already taken
+30.3.2022, 21:57:44 - DEBUG - auth.service - login with username: undefined
+30.3.2022, 21:57:44 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+30.3.2022, 22:01:19 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:01:19 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:01:22 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:01:22 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:01:24 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:01:24 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:01:41 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:01:42 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:01:56 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:01:57 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:02:05 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:02:05 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:02:43 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:02:43 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:03:05 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:03:05 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:04:19 - DEBUG - auth.service - login with username: undefined
+30.3.2022, 22:04:19 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+30.3.2022, 22:10:24 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 22:10:24 - ERROR - Failed to Login Invalid  password
+30.3.2022, 22:10:31 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 22:10:31 - ERROR - Failed to Login Invalid  password
+30.3.2022, 22:10:34 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 22:10:34 - ERROR - Failed to Login Invalid  password
+30.3.2022, 22:17:00 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:17:00 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:17:00 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:17:00 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:17:09 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:17:09 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:17:11 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:17:11 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:17:39 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:17:39 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:17:44 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:17:44 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:18:00 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:18:00 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:18:03 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:18:03 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:18:05 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:18:05 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:18:08 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:18:08 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:18:24 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 22:18:24 - ERROR - Failed to Login Invalid  password
+30.3.2022, 22:20:12 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:20:12 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:24:16 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 22:24:16 - ERROR - Failed to Login Invalid  password
+30.3.2022, 22:25:14 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 22:25:14 - ERROR - Failed to Login Invalid  password
+30.3.2022, 22:26:10 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 22:26:10 - ERROR - Failed to Login Invalid  password
+30.3.2022, 22:30:51 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:30:51 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:33:03 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 22:33:03 - ERROR - Failed to Login Invalid  password
+30.3.2022, 22:33:59 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 22:33:59 - ERROR - Failed to Login Invalid  password
+30.3.2022, 22:34:02 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:34:02 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:37:24 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:37:24 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:37:29 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:37:30 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:38:01 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 22:38:01 - ERROR - Failed to signup Username already taken
+30.3.2022, 22:43:34 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 22:43:34 - ERROR - Failed to Login Invalid  password
+30.3.2022, 23:00:19 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 23:00:19 - ERROR - Failed to Login Invalid  password
+30.3.2022, 23:00:37 - DEBUG - auth.service - login with username: pp
+30.3.2022, 23:00:37 - ERROR - Failed to Login Invalid  password
+30.3.2022, 23:01:02 - DEBUG - auth.service - signup with username: aa, fullname: aa
+30.3.2022, 23:01:02 - DEBUG - auth.route - new account created: {"username":"aa","password":"$2b$10$qzomFK1FWn84W6WMuBr3wuoSu8pakgo5zQiU8Xw5HOkld6POlxje.","fullname":"aa","score":0,"_id":"6244b6fe75f764783003c149"}
+30.3.2022, 23:01:02 - DEBUG - auth.service - login with username: aa
+30.3.2022, 23:01:02 - ERROR - Failed to signup Invalid  password
+30.3.2022, 23:10:30 - DEBUG - auth.service - login with username: eyal
+30.3.2022, 23:10:31 - ERROR - Failed to Login Invalid  password
+30.3.2022, 23:10:40 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 23:10:40 - ERROR - Failed to signup Username already taken
+30.3.2022, 23:10:46 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+30.3.2022, 23:10:46 - ERROR - Failed to signup Username already taken
+30.3.2022, 23:52:00 - ERROR - cannot find gigs | {}
+30.3.2022, 23:58:39 - INFO - Server is running on port: 3030
+30.3.2022, 23:59:14 - DEBUG - auth.service - signup with username: barak, fullname: barak
+30.3.2022, 23:59:14 - DEBUG - auth.route - new account created: {"username":"barak","password":"$2b$10$0ZDHMKAXBerL.hKr/wL5PuEXqC0TQDnfmI5aEsSmi6hVjoCdJBpxi","fullname":"barak","score":0,"_id":"6244c4a2f0c3a820a411e40a"}
+30.3.2022, 23:59:14 - DEBUG - auth.service - login with username: barak
+30.3.2022, 23:59:14 - ERROR - Failed to signup Invalid  password
+31.3.2022, 0:07:12 - INFO - Server is running on port: 3030
+31.3.2022, 0:10:40 - INFO - Server is running on port: 3030
+31.3.2022, 0:11:32 - DEBUG - auth.service - signup with username: barak, fullname: barak
+31.3.2022, 0:11:32 - ERROR - Failed to signup Username already taken
+31.3.2022, 0:12:02 - INFO - Server is running on port: 3030
+31.3.2022, 0:12:35 - DEBUG - auth.service - signup with username: aaa, fullname: aaa
+31.3.2022, 0:12:36 - DEBUG - auth.route - new account created: {"username":"aaa","password":"$2b$10$65eOGHV0vAXjBH/8qV9hGeQyPqx4uh.lu2gtMTuNktaebFXeZah/m","fullname":"aaa","score":0,"_id":"6244c7c49131ef41dc7b28b1"}
+31.3.2022, 0:12:36 - DEBUG - auth.service - login with username: aaa
+31.3.2022, 0:12:36 - ERROR - Failed to signup Invalid  password
+31.3.2022, 0:24:43 - INFO - Server is running on port: 3030
+31.3.2022, 0:24:50 - INFO - Server is running on port: 3030
+31.3.2022, 0:25:08 - INFO - Server is running on port: 3030
+31.3.2022, 0:26:42 - INFO - Server is running on port: 3030
+31.3.2022, 0:27:19 - DEBUG - auth.service - login with username: barak
+31.3.2022, 0:27:20 - ERROR - Failed to Login Invalid  password
+31.3.2022, 0:28:35 - INFO - Server is running on port: 3030
+31.3.2022, 0:28:37 - DEBUG - auth.service - login with username: barak
+31.3.2022, 0:28:38 - ERROR - Failed to Login Invalid  password
+31.3.2022, 0:29:12 - DEBUG - auth.service - login with username: aaa
+31.3.2022, 0:29:12 - ERROR - Failed to Login Invalid  password
+31.3.2022, 0:31:33 - INFO - Server is running on port: 3030
+31.3.2022, 0:31:50 - DEBUG - auth.service - login with username: aaa
+31.3.2022, 0:40:00 - DEBUG - auth.service - login with username: barak
+31.3.2022, 0:41:02 - DEBUG - auth.service - login with username: barak
+31.3.2022, 11:39:16 - DEBUG - auth.service - signup with username: ofir, fullname: ofir
+31.3.2022, 11:39:17 - DEBUG - auth.route - new account created: {"username":"ofir","password":"$2b$10$HzLC3NmktbEjAfKfjnvYzegUb.b9H3zYfs4DE7VcvPiQGJVUMpKSG","fullname":"ofir","score":0,"_id":"624568b53c77c456f0d9a30f"}
+31.3.2022, 11:39:17 - DEBUG - auth.service - login with username: ofir
+31.3.2022, 12:13:48 - DEBUG - auth.service - login with username: 
+31.3.2022, 12:13:49 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+31.3.2022, 12:15:56 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+31.3.2022, 12:15:56 - ERROR - Failed to signup Username already taken
+31.3.2022, 12:16:21 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 12:21:47 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 12:23:48 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 12:33:48 - DEBUG - auth.service - login with username: קטשך
+31.3.2022, 12:33:48 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+31.3.2022, 12:34:37 - INFO - Server is running on port: 3030
+31.3.2022, 12:34:50 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 12:35:41 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 12:37:35 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 13:54:47 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 13:54:56 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 14:00:09 - DEBUG - auth.service - signup with username: or, fullname: or
+31.3.2022, 14:00:09 - DEBUG - auth.route - new account created: {"username":"or","password":"$2b$10$X1sjtYuGZDTDCj/Ss76PkuOITq8dFGKPpwncs/dpbrPXURkxYEgpi","fullname":"or","score":0,"_id":"624589b9707ce17e4033fe7b"}
+31.3.2022, 14:00:09 - DEBUG - auth.service - login with username: or
+31.3.2022, 14:02:59 - DEBUG - auth.service - login with username: or
+31.3.2022, 14:09:08 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 14:11:36 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 14:11:36 - DEBUG - auth.service - login with username: or
+31.3.2022, 14:11:55 - INFO - Server is running on port: 3030
+31.3.2022, 14:12:07 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 14:18:23 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 14:26:04 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 14:26:35 - INFO - Server is running on port: 3030
+31.3.2022, 14:26:56 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 14:27:54 - INFO - Server is running on port: 3030
+31.3.2022, 14:28:03 - INFO - Server is running on port: 3030
+31.3.2022, 15:17:59 - ERROR - cannot find gigs | {}
+31.3.2022, 15:20:27 - INFO - Server is running on port: 3030
+31.3.2022, 15:20:42 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 15:21:00 - DEBUG - auth.service - signup with username: yosi, fullname: yosi
+31.3.2022, 15:21:00 - ERROR - Failed to signup Username already taken
+31.3.2022, 16:15:46 - INFO - Server is running on port: 3030
+31.3.2022, 16:19:04 - INFO - Server is running on port: 3030
+31.3.2022, 16:19:47 - INFO - Server is running on port: 3030
+31.3.2022, 16:21:11 - INFO - Server is running on port: 3030
+31.3.2022, 16:21:47 - INFO - Server is running on port: 3030
+31.3.2022, 16:22:03 - INFO - Server is running on port: 3030
+31.3.2022, 16:22:23 - INFO - Server is running on port: 3030
+31.3.2022, 16:24:10 - INFO - Server is running on port: 3030
+31.3.2022, 17:21:17 - INFO - Server is running on port: 3030
+31.3.2022, 17:24:26 - INFO - Server is running on port: 3030
+31.3.2022, 19:26:06 - INFO - Server is running on port: 3030
+31.3.2022, 19:27:48 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 19:44:08 - INFO - Server is running on port: 3030
+31.3.2022, 19:45:51 - INFO - Server is running on port: 3030
+31.3.2022, 21:08:08 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 22:34:17 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 22:46:38 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 23:00:25 - DEBUG - auth.service - login with username: eyal
+31.3.2022, 23:36:59 - DEBUG - auth.service - login with username: eyal
+1.4.2022, 0:10:37 - INFO - Server is running on port: 3030
+1.4.2022, 12:14:06 - DEBUG - auth.service - login with username: eyal
+1.4.2022, 23:21:54 - INFO - Server is running on port: 3030
+1.4.2022, 23:23:43 - DEBUG - auth.service - login with username: eyal
+1.4.2022, 23:25:04 - DEBUG - auth.service - login with username: eyal
+2.4.2022, 0:31:26 - INFO - Server is running on port: 3030
+2.4.2022, 10:35:16 - INFO - Server is running on port: 3030
+2.4.2022, 10:35:30 - INFO - Server is running on port: 3030
+2.4.2022, 10:35:44 - INFO - Server is running on port: 3030
+2.4.2022, 10:37:30 - INFO - Server is running on port: 3030
+2.4.2022, 10:39:02 - INFO - Server is running on port: 3030
+2.4.2022, 10:39:57 - INFO - Server is running on port: 3030
+2.4.2022, 10:41:36 - INFO - Server is running on port: 3030
+2.4.2022, 10:42:01 - INFO - Server is running on port: 3030
+2.4.2022, 10:42:24 - INFO - Server is running on port: 3030
+2.4.2022, 10:42:54 - INFO - Server is running on port: 3030
+2.4.2022, 10:43:17 - INFO - Server is running on port: 3030
+2.4.2022, 10:43:27 - INFO - Server is running on port: 3030
+2.4.2022, 10:43:53 - INFO - Server is running on port: 3030
+2.4.2022, 10:43:57 - INFO - Server is running on port: 3030
+2.4.2022, 10:44:12 - INFO - Server is running on port: 3030
+2.4.2022, 10:44:35 - INFO - Server is running on port: 3030
+2.4.2022, 10:46:29 - INFO - Server is running on port: 3030
+2.4.2022, 10:49:30 - INFO - Server is running on port: 3030
+2.4.2022, 10:49:45 - INFO - Server is running on port: 3030
+2.4.2022, 10:49:52 - INFO - Server is running on port: 3030
+2.4.2022, 10:50:17 - INFO - Server is running on port: 3030
+2.4.2022, 12:21:56 - INFO - Server is running on port: 3030
+2.4.2022, 12:31:28 - INFO - Server is running on port: 3030
+2.4.2022, 12:38:19 - INFO - Server is running on port: 3030
+2.4.2022, 12:39:08 - INFO - Server is running on port: 3030
+2.4.2022, 12:39:34 - INFO - Server is running on port: 3030
+2.4.2022, 12:40:52 - DEBUG - auth.service - signup with username: eyal, fullname: eyal
+2.4.2022, 12:40:52 - ERROR - Failed to signup Username already taken
+2.4.2022, 12:41:20 - DEBUG - auth.service - login with username: eyal
+2.4.2022, 12:51:39 - INFO - Server is running on port: 3030
+2.4.2022, 12:51:56 - INFO - Server is running on port: 3030
+2.4.2022, 12:52:04 - INFO - Server is running on port: 3030
+2.4.2022, 12:52:17 - ERROR - Failed to add order | {}
+2.4.2022, 12:56:15 - INFO - Server is running on port: 3030
+2.4.2022, 12:56:19 - INFO - Server is running on port: 3030
+2.4.2022, 12:56:26 - INFO - Server is running on port: 3030
+2.4.2022, 12:56:34 - INFO - Server is running on port: 3030
+2.4.2022, 12:56:47 - INFO - Server is running on port: 3030
+2.4.2022, 12:56:57 - INFO - Server is running on port: 3030
+2.4.2022, 12:57:19 - INFO - Server is running on port: 3030
+2.4.2022, 12:57:38 - INFO - Server is running on port: 3030
+2.4.2022, 12:57:51 - INFO - Server is running on port: 3030
+2.4.2022, 12:58:02 - INFO - Server is running on port: 3030
+2.4.2022, 13:49:23 - DEBUG - auth.service - login with username: eyal
+2.4.2022, 14:21:18 - DEBUG - auth.service - login with username: eyal
+2.4.2022, 16:10:02 - DEBUG - auth.service - login with username: frederickkessie
+2.4.2022, 16:10:03 - ERROR - Failed to Login TypeError: Cannot read properties of null (reading 'password')
+2.4.2022, 16:14:36 - INFO - Server is running on port: 3030
+2.4.2022, 16:15:38 - DEBUG - auth.service - login with username: frederickkessie
+2.4.2022, 16:15:39 - ERROR - Failed to Login Invalid username 
+2.4.2022, 16:17:14 - INFO - Server is running on port: 3030
+2.4.2022, 16:17:18 - DEBUG - auth.service - login with username: frederickkessie
+2.4.2022, 16:17:19 - ERROR - Failed to Login Invalid username 
+2.4.2022, 16:18:00 - DEBUG - auth.service - login with username: frederic
+2.4.2022, 17:10:39 - INFO - Server is running on port: 3030
+2.4.2022, 17:30:52 - ERROR - Failed to get orders | {}
+2.4.2022, 17:32:28 - ERROR - Failed to get orders | {}
+2.4.2022, 17:34:19 - INFO - Server is running on port: 3030
+2.4.2022, 17:34:26 - ERROR - Failed to get user orders | {}
+2.4.2022, 17:36:15 - INFO - Server is running on port: 3030
+2.4.2022, 17:36:19 - ERROR - Failed to get user orders | {}
+2.4.2022, 17:36:46 - INFO - Server is running on port: 3030
+2.4.2022, 17:36:54 - ERROR - Failed to get user orders | {}
+2.4.2022, 17:37:34 - INFO - Server is running on port: 3030
+2.4.2022, 17:37:47 - ERROR - Failed to get orders, no user connect
+2.4.2022, 17:38:45 - INFO - Server is running on port: 3030
+2.4.2022, 17:38:48 - ERROR - Failed to get orders, no user connect
+2.4.2022, 17:41:18 - ERROR - Failed to get orders, no user connect
+2.4.2022, 17:42:21 - DEBUG - auth.service - login with username: frederic
+2.4.2022, 17:43:14 - ERROR - Cannot find orders | {}
+2.4.2022, 17:53:10 - INFO - Server is running on port: 3030
+2.4.2022, 17:58:55 - INFO - Server is running on port: 3030
+2.4.2022, 17:59:05 - ERROR - Failed to get orders, no user connect
+2.4.2022, 17:59:48 - DEBUG - auth.service - login with username: frederic
+2.4.2022, 18:01:29 - INFO - Server is running on port: 3030
+2.4.2022, 18:03:31 - INFO - Server is running on port: 3030
+2.4.2022, 18:03:39 - INFO - Server is running on port: 3030
+2.4.2022, 18:03:45 - ERROR - Failed to get orders, no user connect
+2.4.2022, 18:04:02 - DEBUG - auth.service - login with username: frederic
+2.4.2022, 18:09:52 - INFO - Server is running on port: 3030
+2.4.2022, 18:10:46 - DEBUG - auth.service - login with username: frederick
+2.4.2022, 18:10:46 - ERROR - Failed to Login Invalid username 
+2.4.2022, 18:10:56 - DEBUG - auth.service - login with username: frederickk
+2.4.2022, 18:10:56 - ERROR - Failed to Login Invalid username 
+2.4.2022, 18:12:06 - DEBUG - auth.service - login with username: frederic
+2.4.2022, 18:12:56 - INFO - Server is running on port: 3030
+2.4.2022, 18:15:51 - INFO - Server is running on port: 3030
+2.4.2022, 18:16:14 - DEBUG - auth.service - login with username: frederic
+2.4.2022, 18:18:40 - INFO - Server is running on port: 3030
+2.4.2022, 18:18:53 - DEBUG - auth.service - login with username: frederic
+2.4.2022, 18:19:24 - INFO - Server is running on port: 3030
+2.4.2022, 18:19:38 - INFO - Server is running on port: 3030
+2.4.2022, 18:20:09 - DEBUG - auth.service - login with username: frederic
+2.4.2022, 18:25:29 - INFO - Server is running on port: 3030
+2.4.2022, 18:26:04 - ERROR - Failed to get orders, no user connect
+2.4.2022, 18:41:07 - INFO - Server is running on port: 3030
+2.4.2022, 18:43:08 - INFO - Server is running on port: 3030
+2.4.2022, 18:43:16 - INFO - Server is running on port: 3030
+2.4.2022, 18:57:34 - INFO - Server is running on port: 3030
+2.4.2022, 18:57:42 - INFO - Server is running on port: 3030
+2.4.2022, 18:57:48 - INFO - Server is running on port: 3030
+2.4.2022, 18:58:25 - INFO - Server is running on port: 3030
+2.4.2022, 18:59:56 - INFO - Server is running on port: 3030
+2.4.2022, 19:11:15 - INFO - Server is running on port: 3030
+2.4.2022, 19:24:50 - INFO - Server is running on port: 3030
+2.4.2022, 19:27:05 - INFO - Server is running on port: 3030
+2.4.2022, 19:28:09 - INFO - Server is running on port: 3030
+2.4.2022, 19:28:20 - INFO - Server is running on port: 3030
+2.4.2022, 19:29:27 - INFO - Server is running on port: 3030
+2.4.2022, 19:29:46 - INFO - Server is running on port: 3030
+2.4.2022, 19:30:25 - DEBUG - auth.service - login with username: eyal
+2.4.2022, 19:30:56 - INFO - Server is running on port: 3030
+2.4.2022, 19:31:56 - DEBUG - auth.service - login with username: frederic
+2.4.2022, 19:48:53 - INFO - Server is running on port: 3030
+2.4.2022, 19:49:51 - INFO - Server is running on port: 3030
+2.4.2022, 19:50:14 - ERROR - Failed to get orders, no user connect
+2.4.2022, 19:50:30 - ERROR - Failed to get orders, no user connect
+2.4.2022, 20:14:20 - ERROR - Failed to get orders, no user connect
+2.4.2022, 20:14:25 - DEBUG - auth.service - login with username: eyal
+2.4.2022, 20:43:34 - DEBUG - auth.service - login with username: lisav
+2.4.2022, 20:43:49 - INFO - Server is running on port: 3030
+2.4.2022, 20:54:13 - INFO - Server is running on port: 3030
+2.4.2022, 20:54:30 - ERROR - Failed to get orders, no user connect
+2.4.2022, 20:54:41 - DEBUG - auth.service - login with username: eyal
+2.4.2022, 20:54:49 - ERROR - Cannot find orders | {}
+2.4.2022, 20:59:33 - INFO - Server is running on port: 3030
+2.4.2022, 20:59:41 - ERROR - Failed to get orders, no user connect
+2.4.2022, 20:59:46 - DEBUG - auth.service - login with username: eyal
+2.4.2022, 20:59:59 - ERROR - Failed to get orders, no user connect
+2.4.2022, 21:00:08 - DEBUG - auth.service - login with username: eyal
+2.4.2022, 21:00:14 - DEBUG - auth.service - login with username: lisav
+2.4.2022, 21:39:41 - INFO - Server is running on port: 3030
+2.4.2022, 21:39:50 - ERROR - Failed to get orders, no user connect
+2.4.2022, 21:40:06 - DEBUG - auth.service - login with username: lisav
+2.4.2022, 21:46:58 - INFO - Server is running on port: 3030
+2.4.2022, 21:47:05 - INFO - Server is running on port: 3030
+2.4.2022, 21:52:09 - INFO - Server is running on port: 3030
+2.4.2022, 21:57:21 - INFO - Server is running on port: 3030
+2.4.2022, 21:57:28 - INFO - Server is running on port: 3030
+2.4.2022, 22:02:34 - INFO - Server is running on port: 3030
+2.4.2022, 22:06:34 - INFO - Server is running on port: 3030
+2.4.2022, 22:08:02 - INFO - Server is running on port: 3030
+2.4.2022, 22:08:20 - INFO - Server is running on port: 3030
+2.4.2022, 22:23:13 - INFO - Server is running on port: 3030
+2.4.2022, 22:23:17 - INFO - Server is running on port: 3030
+2.4.2022, 23:11:54 - ERROR - Failed to get orders, no user connect
+2.4.2022, 23:15:20 - DEBUG - auth.service - login with username: isuru
+2.4.2022, 23:15:37 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 0:53:15 - INFO - Server is running on port: 3030
+3.4.2022, 1:04:10 - INFO - Server is running on port: 3030
+3.4.2022, 1:05:41 - INFO - Server is running on port: 3030
+3.4.2022, 1:30:22 - INFO - Server is running on port: 3030
+3.4.2022, 1:30:44 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 1:30:56 - ERROR - Failed to get orders, no user connect
+3.4.2022, 1:31:21 - DEBUG - auth.service - login with username: frederick
+3.4.2022, 1:31:21 - ERROR - Failed to Login Invalid username 
+3.4.2022, 1:32:28 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 1:34:21 - INFO - Server is running on port: 3030
+3.4.2022, 1:37:08 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 1:42:14 - INFO - Server is running on port: 3030
+3.4.2022, 1:42:29 - ERROR - Failed to get orders, no user connect
+3.4.2022, 1:42:31 - ERROR - Failed to get orders, no user connect
+3.4.2022, 1:42:40 - ERROR - Failed to get orders, no user connect
+3.4.2022, 1:42:48 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 1:43:07 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 1:46:14 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 1:47:26 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 1:47:36 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 1:51:23 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 1:53:03 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 1:53:22 - DEBUG - auth.service - login with username: fredrick
+3.4.2022, 1:53:23 - ERROR - Failed to Login Invalid username 
+3.4.2022, 1:53:37 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 1:58:18 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:04:24 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 2:05:00 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:06:32 - INFO - Server is running on port: 3030
+3.4.2022, 2:06:38 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 2:06:47 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:08:02 - INFO - Server is running on port: 3030
+3.4.2022, 2:08:27 - ERROR - Failed to get orders, no user connect
+3.4.2022, 2:08:34 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:08:56 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 2:09:20 - INFO - Server is running on port: 3030
+3.4.2022, 2:09:42 - INFO - Server is running on port: 3030
+3.4.2022, 2:09:47 - ERROR - Failed to get orders, no user connect
+3.4.2022, 2:09:53 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 2:09:57 - ERROR - Failed to get orders, no user connect
+3.4.2022, 2:10:04 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:12:54 - INFO - Server is running on port: 3030
+3.4.2022, 2:13:14 - INFO - Server is running on port: 3030
+3.4.2022, 2:13:24 - ERROR - Failed to get orders, no user connect
+3.4.2022, 2:13:30 - ERROR - Failed to get orders, no user connect
+3.4.2022, 2:13:33 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 2:13:39 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:22:04 - INFO - Server is running on port: 3030
+3.4.2022, 2:29:22 - ERROR - Failed to get orders, no user connect
+3.4.2022, 2:29:22 - ERROR - Failed to get orders, no user connect
+3.4.2022, 2:29:33 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:29:40 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 2:33:06 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:41:09 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 2:41:31 - DEBUG - auth.service - login with username: fredric
+3.4.2022, 2:41:31 - ERROR - Failed to Login Invalid username 
+3.4.2022, 2:41:38 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:42:36 - INFO - Server is running on port: 3030
+3.4.2022, 2:43:02 - INFO - Server is running on port: 3030
+3.4.2022, 2:43:09 - INFO - Server is running on port: 3030
+3.4.2022, 2:43:59 - INFO - Server is running on port: 3030
+3.4.2022, 2:44:04 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:44:31 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 2:45:49 - INFO - Server is running on port: 3030
+3.4.2022, 2:46:48 - ERROR - Failed to get orders, no user connect
+3.4.2022, 2:46:53 - ERROR - Failed to get orders, no user connect
+3.4.2022, 2:47:01 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:47:09 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 2:48:28 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:49:10 - INFO - Server is running on port: 3030
+3.4.2022, 2:50:43 - INFO - Server is running on port: 3030
+3.4.2022, 2:50:56 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:51:13 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 2:54:10 - INFO - Server is running on port: 3030
+3.4.2022, 2:54:32 - ERROR - Failed to get orders, no user connect
+3.4.2022, 2:54:33 - ERROR - Failed to get orders, no user connect
+3.4.2022, 2:55:02 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:55:25 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 2:57:43 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 2:58:03 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 3:01:47 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 3:01:58 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 3:04:20 - INFO - Server is running on port: 3030
+3.4.2022, 3:04:31 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 3:04:35 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 3:05:32 - INFO - Server is running on port: 3030
+3.4.2022, 3:05:47 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 3:06:01 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 11:49:46 - INFO - Server is running on port: 3030
+3.4.2022, 11:56:41 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 11:57:39 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 12:10:13 - ERROR - Failed to get orders, no user connect
+3.4.2022, 12:10:35 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 12:24:43 - INFO - Server is running on port: 3030
+3.4.2022, 12:25:13 - ERROR - Failed to get orders, no user connect
+3.4.2022, 12:42:40 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 12:50:03 - ERROR - Failed to get orders, no user connect
+3.4.2022, 12:50:53 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:01:51 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:02:01 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 13:12:36 - INFO - Server is running on port: 3030
+3.4.2022, 13:13:49 - INFO - Server is running on port: 3030
+3.4.2022, 13:14:13 - INFO - Server is running on port: 3030
+3.4.2022, 13:14:36 - INFO - Server is running on port: 3030
+3.4.2022, 13:14:49 - INFO - Server is running on port: 3030
+3.4.2022, 13:15:18 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:15:20 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:15:52 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:15:54 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:16:20 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:16:22 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:17:07 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:17:09 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:17:19 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:17:23 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:17:31 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:17:32 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:17:43 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:17:48 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:17:50 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:17:53 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:18:45 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:18:47 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:18:51 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:18:53 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:20:36 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:20:37 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:23:59 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:24:09 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 13:24:38 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:24:56 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 13:27:09 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:27:27 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:28:05 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:28:18 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:28:38 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 13:29:01 - INFO - Server is running on port: 3030
+3.4.2022, 13:29:05 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:29:11 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 13:31:10 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:31:49 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:32:33 - INFO - Server is running on port: 3030
+3.4.2022, 13:32:50 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:32:59 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 13:34:41 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:35:33 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:37:27 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:37:47 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:38:26 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:50:37 - INFO - Server is running on port: 3030
+3.4.2022, 13:50:43 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:50:49 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 13:51:59 - ERROR - Failed to get orders, no user connect
+3.4.2022, 13:58:15 - INFO - Server is running on port: 3030
+3.4.2022, 13:58:33 - INFO - Server is running on port: 3030
+3.4.2022, 14:00:03 - INFO - Server is running on port: 3030
+3.4.2022, 14:00:30 - INFO - Server is running on port: 3030
+3.4.2022, 14:01:42 - INFO - Server is running on port: 3030
+3.4.2022, 14:04:14 - INFO - Server is running on port: 3030
+3.4.2022, 14:07:04 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:08:45 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:08:56 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:09:22 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:09:32 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 14:11:46 - INFO - Server is running on port: 3030
+3.4.2022, 14:11:48 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:12:01 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:12:17 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:12:26 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 14:13:45 - INFO - Server is running on port: 3030
+3.4.2022, 14:13:51 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:14:56 - INFO - Server is running on port: 3030
+3.4.2022, 14:15:07 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:16:03 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:19:51 - INFO - Server is running on port: 3030
+3.4.2022, 14:20:06 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:20:07 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:20:14 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:22:01 - INFO - Server is running on port: 3030
+3.4.2022, 14:22:02 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:23:21 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:24:32 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:25:18 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:25:27 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:25:41 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:28:42 - INFO - Server is running on port: 3030
+3.4.2022, 14:29:03 - INFO - Server is running on port: 3030
+3.4.2022, 14:29:31 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:29:34 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:29:57 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:29:59 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:30:10 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:30:24 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:32:41 - INFO - Server is running on port: 3030
+3.4.2022, 14:33:08 - INFO - Server is running on port: 3030
+3.4.2022, 14:33:29 - INFO - Server is running on port: 3030
+3.4.2022, 14:33:34 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:33:40 - ERROR - cannot insert order | {}
+3.4.2022, 14:33:40 - ERROR - Failed to add order | {}
+3.4.2022, 14:34:31 - INFO - Server is running on port: 3030
+3.4.2022, 14:34:51 - INFO - Server is running on port: 3030
+3.4.2022, 14:35:07 - INFO - Server is running on port: 3030
+3.4.2022, 14:35:16 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:37:28 - INFO - Server is running on port: 3030
+3.4.2022, 14:37:40 - INFO - Server is running on port: 3030
+3.4.2022, 14:38:02 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:46:14 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:46:56 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:50:50 - INFO - Server is running on port: 3030
+3.4.2022, 14:51:01 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:51:35 - INFO - Server is running on port: 3030
+3.4.2022, 14:52:34 - INFO - Server is running on port: 3030
+3.4.2022, 14:53:18 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:53:21 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:53:28 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 14:53:36 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:57:22 - INFO - Server is running on port: 3030
+3.4.2022, 14:57:31 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:57:35 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:57:40 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:57:49 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 14:58:25 - INFO - Server is running on port: 3030
+3.4.2022, 14:58:30 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:58:33 - ERROR - Failed to get orders, no user connect
+3.4.2022, 14:58:38 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 14:58:46 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 14:59:09 - ERROR - Failed to update order | {}
+3.4.2022, 14:59:43 - ERROR - Failed to update order | {}
+3.4.2022, 14:59:45 - ERROR - Failed to update order | {}
+3.4.2022, 14:59:47 - ERROR - Failed to update order | {}
+3.4.2022, 14:59:53 - ERROR - Failed to update order | {}
+3.4.2022, 15:00:03 - ERROR - Failed to update order | {}
+3.4.2022, 15:00:05 - ERROR - Failed to update order | {}
+3.4.2022, 15:00:08 - ERROR - Failed to update order | {}
+3.4.2022, 15:00:26 - ERROR - Failed to update order | {}
+3.4.2022, 15:00:31 - ERROR - Failed to update order | {}
+3.4.2022, 15:01:15 - ERROR - Failed to update order | {}
+3.4.2022, 15:02:21 - INFO - Server is running on port: 3030
+3.4.2022, 15:03:54 - ERROR - Failed to get orders, no user connect
+3.4.2022, 15:03:54 - ERROR - Failed to add order | {}
+3.4.2022, 15:04:24 - INFO - Server is running on port: 3030
+3.4.2022, 15:04:24 - ERROR - Failed to get orders, no user connect
+3.4.2022, 15:04:26 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 15:04:33 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 15:04:46 - ERROR - Failed to add order | {}
+3.4.2022, 15:06:36 - INFO - Server is running on port: 3030
+3.4.2022, 15:06:38 - ERROR - Failed to get orders, no user connect
+3.4.2022, 15:06:39 - ERROR - Failed to get orders, no user connect
+3.4.2022, 15:06:46 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 15:06:56 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 15:07:30 - ERROR - Failed to add order | {}
+3.4.2022, 15:10:56 - INFO - Server is running on port: 3030
+3.4.2022, 15:10:58 - INFO - Server is running on port: 3030
+3.4.2022, 15:11:10 - INFO - Server is running on port: 3030
+3.4.2022, 15:11:14 - INFO - Server is running on port: 3030
+3.4.2022, 15:11:33 - ERROR - Failed to get orders, no user connect
+3.4.2022, 15:11:41 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 15:11:46 - ERROR - Failed to add order | {}
+3.4.2022, 15:17:55 - INFO - Server is running on port: 3030
+3.4.2022, 15:17:57 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 15:18:05 - ERROR - Failed to add order | {}
+3.4.2022, 15:19:03 - INFO - Server is running on port: 3030
+3.4.2022, 15:19:15 - INFO - Server is running on port: 3030
+3.4.2022, 15:19:28 - ERROR - Failed to get orders, no user connect
+3.4.2022, 15:19:41 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 15:19:52 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 15:26:22 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 15:26:43 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 15:29:53 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 15:30:05 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 15:30:50 - INFO - Server is running on port: 3030
+3.4.2022, 15:31:17 - ERROR - Failed to get orders, no user connect
+3.4.2022, 15:31:17 - ERROR - Failed to get orders, no user connect
+3.4.2022, 15:31:38 - DEBUG - auth.service - login with username: frederic
+3.4.2022, 15:31:46 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 16:17:11 - INFO - Server is running on port: 3030
+3.4.2022, 16:26:21 - ERROR - Failed to get orders, no user connect
+3.4.2022, 16:45:26 - INFO - Server is running on port: 3030
+3.4.2022, 16:47:42 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 21:46:46 - ERROR - while finding gig undefined | {}
+3.4.2022, 21:46:46 - ERROR - Failed to get gig | {}
+3.4.2022, 22:19:57 - INFO - Server is running on port: 3030
+3.4.2022, 22:20:28 - ERROR - Failed to get orders, no user connect
+3.4.2022, 22:20:54 - INFO - Server is running on port: 3030
+3.4.2022, 22:22:06 - INFO - Server is running on port: 3030
+3.4.2022, 22:27:19 - INFO - Server is running on port: 3030
+3.4.2022, 22:29:07 - INFO - Server is running on port: 3030
+3.4.2022, 22:30:16 - INFO - Server is running on port: 3030
+3.4.2022, 22:32:13 - INFO - Server is running on port: 3030
+3.4.2022, 22:32:21 - INFO - Server is running on port: 3030
+3.4.2022, 22:35:58 - INFO - Server is running on port: 3030
+3.4.2022, 22:43:25 - INFO - Server is running on port: 3030
+3.4.2022, 22:43:40 - INFO - Server is running on port: 3030
+3.4.2022, 22:43:46 - DEBUG - auth.service - login with username: eyal
+3.4.2022, 22:49:31 - INFO - Server is running on port: 3030
+3.4.2022, 22:59:02 - INFO - Server is running on port: 3030
+3.4.2022, 22:59:44 - INFO - Server is running on port: 3030
+3.4.2022, 23:01:46 - INFO - Server is running on port: 3030
+3.4.2022, 23:03:05 - INFO - Server is running on port: 3030
+3.4.2022, 23:07:17 - INFO - Server is running on port: 3030
+3.4.2022, 23:07:48 - INFO - Server is running on port: 3030
+3.4.2022, 23:09:10 - INFO - Server is running on port: 3030
+3.4.2022, 23:10:33 - INFO - Server is running on port: 3030
+3.4.2022, 23:11:18 - INFO - Server is running on port: 3030
+3.4.2022, 23:13:27 - INFO - Server is running on port: 3030
+3.4.2022, 23:14:06 - INFO - Server is running on port: 3030
+3.4.2022, 23:14:43 - INFO - Server is running on port: 3030
+3.4.2022, 23:23:39 - INFO - Server is running on port: 3030
+3.4.2022, 23:26:26 - INFO - Server is running on port: 3030
+3.4.2022, 23:26:42 - INFO - Server is running on port: 3030
+3.4.2022, 23:27:02 - INFO - Server is running on port: 3030
+3.4.2022, 23:39:42 - INFO - Server is running on port: 3030
+3.4.2022, 23:48:34 - INFO - Server is running on port: 3030
+3.4.2022, 23:51:23 - INFO - Server is running on port: 3030
+3.4.2022, 23:51:49 - INFO - Server is running on port: 3030
+4.4.2022, 0:02:51 - ERROR - while finding gig 624440e1f11c47915c618c52 | {}
+4.4.2022, 0:02:51 - ERROR - Failed to get gig | {}
+4.4.2022, 0:07:42 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 1:14:11 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 1:30:09 - DEBUG - auth.service - signup with username: or, fullname: or
+4.4.2022, 1:30:09 - ERROR - Failed to signup Username already taken
+4.4.2022, 1:30:26 - DEBUG - auth.service - signup with username: or, fullname: or_kopel
+4.4.2022, 1:30:27 - ERROR - Failed to signup Username already taken
+4.4.2022, 1:30:46 - DEBUG - auth.service - signup with username: or_kopel, fullname: or_kopel
+4.4.2022, 1:30:47 - DEBUG - auth.route - new account created: {"username":"or_kopel","password":"$2b$10$.Qr/gsFJtHbekjDD5PqjZ.5AVf3l4iOZnCiAgkJWJ7Y0N5hhSqRKC","fullname":"or_kopel","score":0,"_id":"624a20166ac79f87c04178f9"}
+4.4.2022, 1:30:47 - DEBUG - auth.service - login with username: or_kopel
+4.4.2022, 1:35:43 - INFO - Server is running on port: 3030
+4.4.2022, 1:35:56 - DEBUG - auth.service - signup with username: david, fullname: david
+4.4.2022, 1:35:56 - DEBUG - auth.route - new account created: {"username":"david","password":"$2b$10$xP6pN8Qfkzd2va3J9PHi7.MRekbouwmFKHZ06enXqYxDd5foLI0he","fullname":"david","score":0,"flag":"https://fiverr-dev-res.cloudinary.com/general_assets/flags/1f1ee-1f1f1.png","_id":"624a214cae681a3304554b8f"}
+4.4.2022, 1:35:56 - DEBUG - auth.service - login with username: david
+4.4.2022, 9:36:50 - INFO - Server is running on port: 3030
+4.4.2022, 10:48:49 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 11:21:27 - ERROR - Failed to get orders, no user connect
+4.4.2022, 11:21:39 - DEBUG - auth.service - login with username: or_kopel
+4.4.2022, 12:03:15 - INFO - Server is running on port: 3030
+4.4.2022, 12:50:09 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 12:51:42 - ERROR - Failed to get orders, no user connect
+4.4.2022, 12:54:20 - DEBUG - auth.service - login with username: frederic
+4.4.2022, 12:54:20 - ERROR - Failed to Login Invalid username 
+4.4.2022, 12:55:14 - DEBUG - auth.service - login with username: frederic
+4.4.2022, 12:55:14 - ERROR - Failed to Login Invalid username 
+4.4.2022, 12:55:33 - DEBUG - auth.service - login with username: frederic
+4.4.2022, 12:55:33 - ERROR - Failed to Login Invalid username 
+4.4.2022, 12:55:59 - DEBUG - auth.service - login with username: isuru
+4.4.2022, 12:55:59 - ERROR - Failed to Login Invalid username 
+4.4.2022, 12:57:04 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 12:57:25 - DEBUG - auth.service - login with username: frederic
+4.4.2022, 12:57:25 - ERROR - Failed to Login Invalid username 
+4.4.2022, 12:58:02 - DEBUG - auth.service - login with username: ofir
+4.4.2022, 12:58:14 - DEBUG - auth.service - login with username: ophir
+4.4.2022, 12:58:14 - ERROR - Failed to Login Invalid  password
+4.4.2022, 12:58:20 - DEBUG - auth.service - login with username: ophir
+4.4.2022, 12:59:37 - DEBUG - auth.service - login with username: or_kopel
+4.4.2022, 13:01:13 - DEBUG - auth.service - login with username: or_kopel
+4.4.2022, 16:43:37 - DEBUG - auth.service - login with username: or_kopel
+4.4.2022, 16:59:42 - INFO - Server is running on port: 3030
+4.4.2022, 17:01:01 - INFO - Server is running on port: 3030
+4.4.2022, 17:01:29 - INFO - Server is running on port: 3030
+4.4.2022, 17:02:54 - INFO - Server is running on port: 3030
+4.4.2022, 17:06:03 - INFO - Server is running on port: 3030
+4.4.2022, 17:06:24 - INFO - Server is running on port: 3030
+4.4.2022, 17:10:40 - INFO - Server is running on port: 3030
+4.4.2022, 17:10:50 - INFO - Server is running on port: 3030
+4.4.2022, 17:24:47 - INFO - Server is running on port: 3030
+4.4.2022, 17:26:01 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 17:27:14 - INFO - Server is running on port: 3030
+4.4.2022, 17:30:14 - INFO - Server is running on port: 3030
+4.4.2022, 17:30:29 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 17:33:31 - INFO - Server is running on port: 3030
+4.4.2022, 17:33:40 - DEBUG - auth.service - login with username: ama
+4.4.2022, 17:33:41 - ERROR - Failed to Login Invalid username 
+4.4.2022, 17:34:05 - DEBUG - auth.service - login with username: ama_studio1
+4.4.2022, 17:35:20 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 17:48:37 - INFO - Server is running on port: 3030
+4.4.2022, 17:48:48 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 17:49:46 - DEBUG - auth.service - login with username: ama_studio1
+4.4.2022, 17:55:53 - INFO - Server is running on port: 3030
+4.4.2022, 17:55:56 - ERROR - Failed to get orders, no user connect
+4.4.2022, 17:56:09 - DEBUG - auth.service - login with username: ama_studio1
+4.4.2022, 17:56:34 - ERROR - Failed to get orders, no user connect
+4.4.2022, 17:56:42 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 18:02:02 - INFO - Server is running on port: 3030
+4.4.2022, 18:02:17 - INFO - Server is running on port: 3030
+4.4.2022, 18:02:29 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 18:02:38 - ERROR - Failed to get orders, no user connect
+4.4.2022, 18:02:47 - DEBUG - auth.service - login with username: ama_studio1
+4.4.2022, 18:05:29 - INFO - Server is running on port: 3030
+4.4.2022, 18:05:56 - INFO - Server is running on port: 3030
+4.4.2022, 18:06:09 - INFO - Server is running on port: 3030
+4.4.2022, 18:06:38 - DEBUG - auth.service - login with username: ama_studio1
+4.4.2022, 18:06:54 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 18:15:27 - INFO - Server is running on port: 3030
+4.4.2022, 18:15:43 - ERROR - Failed to get orders, no user connect
+4.4.2022, 18:15:45 - ERROR - Failed to get orders, no user connect
+4.4.2022, 18:15:51 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 18:16:01 - DEBUG - auth.service - login with username: ama_studio1
+4.4.2022, 18:16:28 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 18:16:39 - DEBUG - auth.service - login with username: ama_studio1
+4.4.2022, 18:17:35 - INFO - Server is running on port: 3030
+4.4.2022, 18:17:36 - ERROR - Failed to get orders, no user connect
+4.4.2022, 18:17:39 - ERROR - Failed to get orders, no user connect
+4.4.2022, 18:17:57 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 18:18:05 - DEBUG - auth.service - login with username: ama_studio1
+4.4.2022, 18:33:46 - INFO - Server is running on port: 3030
+4.4.2022, 18:33:50 - ERROR - Failed to get orders, no user connect
+4.4.2022, 18:33:59 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 18:34:13 - DEBUG - auth.service - login with username: ama_studio1
+4.4.2022, 18:36:57 - INFO - Server is running on port: 3030
+4.4.2022, 18:37:16 - ERROR - Failed to get orders, no user connect
+4.4.2022, 18:37:17 - ERROR - Failed to get orders, no user connect
+4.4.2022, 18:37:45 - ERROR - Failed to get orders, no user connect
+4.4.2022, 18:37:47 - ERROR - Failed to get orders, no user connect
+4.4.2022, 18:37:58 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 18:38:11 - DEBUG - auth.service - login with username: ama_studio1
+4.4.2022, 18:43:12 - INFO - Server is running on port: 3030
+4.4.2022, 18:43:19 - ERROR - Failed to get orders, no user connect
+4.4.2022, 18:43:21 - ERROR - Failed to get orders, no user connect
+4.4.2022, 18:43:30 - DEBUG - auth.service - login with username: ama_studio1
+4.4.2022, 18:43:38 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 19:40:30 - INFO - Server is running on port: 3030
+4.4.2022, 19:40:43 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 19:41:39 - DEBUG - auth.service - login with username: Or-faders
+4.4.2022, 19:45:53 - DEBUG - auth.service - login with username: ophir
+4.4.2022, 19:47:58 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 19:56:30 - DEBUG - auth.service - login with username: ophir
+4.4.2022, 19:56:31 - ERROR - Failed to Login Invalid  password
+4.4.2022, 19:56:36 - DEBUG - auth.service - login with username: ophir
+4.4.2022, 20:35:13 - DEBUG - auth.service - login with username: ophir
+4.4.2022, 23:13:16 - INFO - Server is running on port: 3030
+4.4.2022, 23:25:46 - INFO - Server is running on port: 3030
+4.4.2022, 23:26:02 - DEBUG - auth.service - login with username: eyal
+4.4.2022, 23:27:29 - ERROR - Failed to get orders, no user connect
+4.4.2022, 23:27:49 - ERROR - Failed to get orders, no user connect
+4.4.2022, 23:27:55 - ERROR - Failed to get orders, no user connect
+4.4.2022, 23:28:06 - ERROR - Failed to get orders, no user connect
+4.4.2022, 23:32:28 - ERROR - Failed to get orders, no user connect
+4.4.2022, 23:34:22 - ERROR - Failed to get orders, no user connect
+4.4.2022, 23:34:42 - ERROR - Failed to get orders, no user connect
+4.4.2022, 23:36:29 - ERROR - Failed to get orders, no user connect
+4.4.2022, 23:38:26 - ERROR - Failed to get orders, no user connect
+5.4.2022, 0:35:14 - INFO - Server is running on port: 3030
+5.4.2022, 0:35:36 - DEBUG - auth.service - login with username: eyal
+5.4.2022, 0:39:41 - ERROR - Failed to get orders, no user connect
+5.4.2022, 0:42:09 - ERROR - Failed to get orders, no user connect
+5.4.2022, 0:42:28 - DEBUG - auth.service - login with username: frederic
+5.4.2022, 0:42:28 - ERROR - Failed to Login Invalid username 
+5.4.2022, 0:42:35 - DEBUG - auth.service - login with username: frederic
+5.4.2022, 0:42:35 - ERROR - Failed to Login Invalid username 
+5.4.2022, 0:42:50 - DEBUG - auth.service - login with username: or_faders
+5.4.2022, 0:42:50 - ERROR - Failed to Login Invalid username 
+5.4.2022, 0:43:06 - DEBUG - auth.service - login with username: or-faders
+5.4.2022, 0:43:06 - ERROR - Failed to Login Invalid username 
+5.4.2022, 0:43:14 - DEBUG - auth.service - login with username: Or-faders
+5.4.2022, 0:52:32 - INFO - Server is running on port: 3030
+5.4.2022, 0:52:57 - ERROR - Failed to get orders, no user connect
+5.4.2022, 0:53:09 - DEBUG - auth.service - login with username: eyal
+5.4.2022, 1:05:17 - DEBUG - auth.service - login with username: Or-faders
+5.4.2022, 1:11:32 - INFO - Server is running on port: 3030
+5.4.2022, 1:44:14 - INFO - Server is running on port: 3030
+5.4.2022, 1:44:41 - ERROR - Failed to get orders, no user connect
+5.4.2022, 1:44:42 - ERROR - Failed to get orders, no user connect
+5.4.2022, 1:44:55 - ERROR - Failed to get orders, no user connect
+5.4.2022, 1:45:04 - DEBUG - auth.service - login with username: eyal
+5.4.2022, 1:45:13 - DEBUG - auth.service - login with username: or
+5.4.2022, 1:45:30 - DEBUG - auth.service - login with username: Or-faders
+5.4.2022, 1:50:53 - INFO - Server is running on port: 3030
+5.4.2022, 1:53:07 - ERROR - Failed to get orders, no user connect
+5.4.2022, 2:15:06 - INFO - Server is running on port: 3030
+5.4.2022, 2:15:45 - DEBUG - auth.service - login with username: eyal
+5.4.2022, 2:34:52 - INFO - Server is running on port: 3030
+2.5.2022, 10:55:16 - INFO - Server is running on port: 3030
+2.5.2022, 10:55:43 - ERROR - while finding gig 624440e1f11c47915c618c52 | {}
+2.5.2022, 10:55:43 - ERROR - Failed to get gig | {}
+2.5.2022, 10:57:07 - DEBUG - auth.service - login with username: eyal
+2.5.2022, 10:57:43 - DEBUG - auth.service - login with username: or-faders
+2.5.2022, 10:57:43 - ERROR - Failed to Login Invalid username 
+2.5.2022, 10:58:36 - DEBUG - auth.service - login with username: Or-faders
+2.5.2022, 12:42:39 - ERROR - while finding gig 624440e1f11c47915c618c52 | {}
+2.5.2022, 12:42:39 - ERROR - Failed to get gig | {}
+3.5.2022, 12:09:20 - INFO - Server is running on port: 3030
+3.5.2022, 12:43:05 - INFO - Server is running on port: 3030
+8.5.2022, 12:39:55 - INFO - Server is running on port: 3030
+8.5.2022, 15:24:03 - INFO - Server is running on port: 3030
+8.5.2022, 17:20:55 - INFO - Server is running on port: 3000
+8.5.2022, 17:24:25 - INFO - Server is running on port: 3030
+8.5.2022, 17:25:20 - INFO - Server is running on port: 3000
+8.5.2022, 18:26:31 - INFO - Server is running on port: 3000
+8.5.2022, 19:00:13 - INFO - Server is running on port: 3000
+8.5.2022, 19:01:08 - INFO - Server is running on port: 3030
+8.5.2022, 20:18:58 - INFO - Server is running on port: 3030
+8.5.2022, 20:55:30 - INFO - Server is running on port: 3030
+8.5.2022, 20:56:01 - ERROR - while finding gig 624440e1f11c47915c618c52 | {}
+8.5.2022, 20:56:01 - ERROR - Failed to get gig | {}
+9.5.2022, 10:28:41 - INFO - Server is running on port: 3030

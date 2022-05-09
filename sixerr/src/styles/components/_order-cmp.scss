@@ -1,0 +1,70 @@
+
+.table-back-office {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  // box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  // margin: 25px;
+  margin-top: 25px;
+  // table-layout:fixed;
+  border: 1px solid #ddd;
+}
+th {
+  background-color: $clr1;
+  color: white;
+}
+td,
+th {
+  border-bottom: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+.order-status {
+  border-radius: 5px;
+  // background-color: #DDA464;
+  font-family: macan-bold;
+  color: #fff;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 100px;
+  text-align: left;
+  // height: 10px;
+  
+}
+
+.status-pending-table{
+  color:#DDA464;
+}
+
+.status-approved-table{
+  color: green;
+}
+
+.cross,
+.done {
+  margin-left: 8px;
+  cursor: pointer;
+}
+
+.gig-name-table {
+  width: 140px;
+}
+
+// .gig-title-table{
+//   overflow: hidden;
+//   white-space: nowrap;
+//   text-overflow: ellipsis;
+//   max-width: 30ch;
+// }
+
+// .action-tr {
+//   width: 70px;
+// }
+
+// .Status-tr {
+//   width: 100px;
+// }
+
+.gig-title-th {
+  max-width: 100px
+}
